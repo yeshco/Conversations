@@ -1,0 +1,15 @@
+{
+  "name": "conversations",
+  "version": "0.0.1",
+  "description": "Building the bare bones of my Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeshaya Coffman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "pug": "^2.0.3"
+  }
+}
